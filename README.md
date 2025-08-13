@@ -2,7 +2,7 @@
 
 Front-End Developer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://sharik-portfolio-week-2.netlify.app/)                                                 
+- 🔭 Here's my [portfolio]([https://sharik-portfolio-week-2.netlify.app/](https://portfolio-sharik.netlify.app/))                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m currently learning MERN stack
 - 📫 How to reach me :
