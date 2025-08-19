@@ -1,18 +1,22 @@
-## Hi there 👋 It's me SHARIK
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Custom Designed Banner ---------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-Front-End Developer 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]([https://sharik-portfolio-week-2.netlify.app/](https://portfolio-sharik.netlify.app/))                                                 
-- 🌱 I’m currently learning DSA
-- 👯 I’m currently learning MERN stack
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sharik0m/)
-- 😄 Pronouns: Techie
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
-### I code in
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-
-![LeetCode Stats](https://leetcode.card.workers.dev/SHARIK0M?theme=dark&font=baloo&extension=activity)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SHARIK0M&bg_color=000000&color=f1eff1&line=0de75a&point=fff5f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FAnmol-Baranwal&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <br><br>
+<!--   <a href="https://www.showwcase.com/anmol-baranwal"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/c9e3761a-08c6-404d-9e27-5cd9d1084773"/></a> -->
+  <a href="https://www.linkedin.com/in/Anmol-Baranwal/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" /></a>
+<a href="https://dev.to/anmolbaranwal"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username anmolbaranwal" /></a>
+<a href="http://anmolbaranwal.com/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of anmol baranwal" /></a>
+<a href="https://medium.com/@anmolbaranwal"><img src="https://img.shields.io/badge/medium-d5d5d5?style=for-the-badge&logo=Medium&logoColor=0A0209" alt="medium profile of anmol baranwal" /></a>
+<a href="mailto:hi@anmolbaranwal.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e.   hi@anmolbaranwal.com" /></a>
+  <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
+</div>
+<br>
