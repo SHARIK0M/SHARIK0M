@@ -1,4 +1,6 @@
 <!-- Centered Links -->
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
+
 <div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/">
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" />
