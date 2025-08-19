@@ -1,16 +1,16 @@
 <!-- Centered Links -->
 ![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
-
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+<!-- Centered Links with Proper Spacing -->
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/">
-    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Anmol-Baranwal" />
+    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn Profile" />
   </a>
 
   <a href="http://anmolbaranwal.com/">
-    <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of anmol baranwal" />
+    <img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="Portfolio" />
   </a>
 
   <a href="mailto:hi@anmolbaranwal.com">
-    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Anmol i.e. hi@anmolbaranwal.com" />
+    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Email" />
   </a>
 </div>
