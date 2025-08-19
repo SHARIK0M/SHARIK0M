@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SHARIK0M/SHARIK0M/main/assets/gif-1.gif" 
        alt="Banner" 
-       width="100%" height="300px"/>
+       width="100%" height="400px"/>
 </p>
 
 <!-- Typing SVG -->
