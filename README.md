@@ -6,7 +6,7 @@
 </p>
 
 
-<p align="right">
+<p align="left">
   <img src="https://raw.githubusercontent.com/SHARIK0M/SHARIK0M/main/assets/title.svg" alt="Hi, I'm SHARIK!" />
 </p>
 
