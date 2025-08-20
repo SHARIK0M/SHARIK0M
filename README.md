@@ -6,51 +6,12 @@
 </p>
 
 <p align="center">
-  <span class="gradient-text">Hi, I'm SHARIK!</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=32&pause=1000&color=0ACBFF&width=600&lines=Hi,+I'm+SHARIK!;Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer" alt="Typing Text">
 </p>
 
-<!-- Stylish Gradient Animated Underline -->
 <p align="center">
-  <span class="underline-anim"></span>
+  <img src="https://your-gif-link.com/gradient-underline.gif" alt="Gradient Underline" width="200">
 </p>
-
-<style>
-  /* Gradient Text */
-  .gradient-text {
-    font-family: "Roboto Mono", monospace;
-    font-size: 28px;
-    font-weight: 600;
-    background: linear-gradient(90deg, #0ACBFF, #ff00cc, #00ff99, #ffcc00, #0ACBFF);
-    background-size: 400% 400%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradientText 6s ease infinite;
-  }
-
-  @keyframes gradientText {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-
-  /* Gradient Underline */
-  .underline-anim {
-    display: inline-block;
-    height: 4px;
-    width: 200px;
-    border-radius: 8px;
-    background: linear-gradient(90deg, #0ACBFF, #ff00cc, #00ff99, #ffcc00, #0ACBFF);
-    background-size: 400% 400%;
-    animation: gradientMove 4s ease infinite;
-  }
-
-  @keyframes gradientMove {
-    0% { background-position: 0% 50%; }
-    50% { background-position: 100% 50%; }
-    100% { background-position: 0% 50%; }
-  }
-</style>
-
 
 
 <!-- Social Badges -->
