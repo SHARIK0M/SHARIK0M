@@ -30,14 +30,13 @@
 ---
 ## 💫 About Me  
 
-I’m a **Full-Stack Developer** passionate about building scalable, user-focused applications.  
-My journey began with a strong curiosity for technology and has grown into hands-on expertise through projects and self-learning at **Brototype**.  
+I’m a **Full-Stack Developer** passionate about crafting scalable and user-friendly applications.  
+Skilled in the **MERN stack** with growing expertise in **Next.js, Docker, Kubernetes, and AWS**.  
 
-- 🚀 Skilled in the **MERN stack**, with growing experience in **Next.js, Docker, and Kubernetes**  
-- ☁️ Exploring **Cloud Services (AWS)** and **DevOps practices**  
-- 🛠️ Strong in **System Design, DSA, and Performance Optimization**  
-- 🤝 Thrive in collaborative, fast-paced environments where innovation and quality matter  
-- 📫 Reach me at: **sharik.x.af@gmail.com** | **+91 9047533809**
+- 🚀 Love turning ideas into impactful products  
+- 🛠️ Strong in **System Design & DSA**  
+- 🤝 Thrive in **collaborative, fast-paced teams**  
+- 📫 Reach me: **sharik.x.af@gmail.com** | **+91 9047533809**
 
 
 ---
