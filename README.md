@@ -28,15 +28,17 @@
 
 
 ---
-
 ## 💫 About Me  
-A passionate **Full-Stack Developer** diving deep into the **MERN stack** and modern tools like **Docker, Kubernetes, and Redux Toolkit**.  
-I love building **interactive frontends, scalable backends, and cloud-ready applications**.  
 
-- 🚀 Currently working on **microservice-based scalable architectures**  
-- 🌱 Learning **Next.js, DevOps, and Cloud Services (AWS, GCP)**  
-- 💡 Enthusiastic about **System Design & DSA**  
-- 📫 Reach me at: svignesh2409@gmail.com | +91 9080287758
+I’m a **Full-Stack Developer** passionate about building scalable, user-focused applications.  
+My journey began with a strong curiosity for technology and has grown into hands-on expertise through projects and self-learning at **Brototype**.  
+
+- 🚀 Skilled in the **MERN stack**, with growing experience in **Next.js, Docker, and Kubernetes**  
+- ☁️ Exploring **Cloud Services (AWS)** and **DevOps practices**  
+- 🛠️ Strong in **System Design, DSA, and Performance Optimization**  
+- 🤝 Thrive in collaborative, fast-paced environments where innovation and quality matter  
+- 📫 Reach me at: **sharik.x.af@gmail.com** | **+91 9047533809**
+
 
 ---
 
