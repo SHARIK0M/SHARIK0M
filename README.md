@@ -13,13 +13,13 @@
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/Anmol-Baranwal/">
+  <a href="https://www.linkedin.com/in/sharik0m/">
     <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="http://anmolbaranwal.com/">
+  <a href="https://portfolio-sharik.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:hi@anmolbaranwal.com">
+  <a href="mailto:sharik.x.af@gmail.com">
     <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
 </p>
@@ -33,10 +33,7 @@
   <img src="https://img.shields.io/badge/MERN%20Stack-121212?style=for-the-badge&logo=mongodb&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Frontend%20Developer-121212?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Backend%20Developer-121212?style=for-the-badge&logo=node.js&logoColor=339933" />
-  <img src="https://img.shields.io/badge/Problem%20Solver-121212?style=for-the-badge&logo=codeforces&logoColor=F39C12" />
 </p>
-
-
 
 <p align="center">
   🚀 Building impactful digital products <br/>
