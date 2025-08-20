@@ -24,23 +24,28 @@
 </p>
 
 ---
-
 ## 💫 About Me  
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Developer-0A0A0A?style=for-the-badge&logo=visualstudiocode&logoColor=00C4FF" />
-  <img src="https://img.shields.io/badge/MERN%20Stack-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=4DB33D" />
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-0A0A0A?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-1f1f1f?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-1f1f1f?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Next.js-1f1f1f?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1f1f1f?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Kubernetes-1f1f1f?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/AWS-1f1f1f?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</p>
 
-<br/>
+<p align="center">
+  🚀 Turning ideas into impactful digital products <br/>
+  🛠 Strong in <b>System Design & DSA</b> <br/>
+  ☁️ Exploring <b>Cloud & DevOps practices</b> <br/>
+  🤝 Thrive in <b>collaborative, fast-paced teams</b> <br/>
+</p>
 
-🔹 Passionate about building **scalable, user-friendly applications**  
-🔹 Skilled in **MERN, Next.js, Docker, Kubernetes, AWS**  
-🔹 Strong in **System Design, DSA & Performance Optimization**  
-🔹 Thrive in **collaborative, fast-paced teams**  
+<p align="center">
+  📫 <b>Reach me:</b> <a href="mailto:sharik.x.af@gmail.com">sharik.x.af@gmail.com</a> | <b>+91 9047533809</b>
+</p>
 
-📫 **Reach me** → [sharik.x.af@gmail.com](mailto:sharik.x.af@gmail.com) | +91 9047533809  
 
 
 ---
