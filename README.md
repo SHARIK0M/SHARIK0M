@@ -10,35 +10,22 @@
   <img src="https://raw.githubusercontent.com/SHARIK0M/SHARIK0M/main/assets/title.svg" alt="Hi, I'm SHARIK!" />
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 50px; margin-top: 20px;">
+
+<!-- Social Badges (Centered) -->
+<p align="center">
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/">
     <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn profile" />
   </a>
 
   <a href="http://anmolbaranwal.com/">
-    <img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=vercel&logoColor=0A0209" alt="Portfolio" />
   </a>
 
   <a href="mailto:hi@anmolbaranwal.com">
     <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" />
   </a>
-</div>
-
-<!-- Social Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/your-github" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://portfolio-sharik.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1ABC9C?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
 </p>
+
 
 ---
 
