@@ -1,9 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SHARIK0M/SHARIK0M/main/assets/gif-1.gif" 
+  <img src="https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960" 
        alt="Banner" 
        width="100%" height="350px"/>
 </p>
+
 <!-- Dark Themed Title -->
 <p align="center">
   <img src="https://img.shields.io/badge/Hi%2C%20I'm%20SHARIK!-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117&color=0D1117" alt="Hi, I'm SHARIK!" />
