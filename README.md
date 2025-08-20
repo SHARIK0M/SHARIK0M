@@ -5,7 +5,6 @@
        width="100%" height="390px"/>
 </p>
 
-<!-- Professional Animated Typing -->
 <p align="center">
   <span class="gradient-text">Hi, I'm SHARIK!</span>
 </p>
@@ -51,9 +50,6 @@
     100% { background-position: 0% 50%; }
   }
 </style>
-
-
-
 
 
 
