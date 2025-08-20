@@ -1,54 +1,88 @@
-<!-- Banner GIF -->
+<!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SHARIK0M/SHARIK0M/main/assets/gif-1.gif" 
        alt="Banner" 
-       width="100%" height="390px"/>
+       width="100%" height="350px"/>
 </p>
 
-
+<!-- Title -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SHARIK0M/SHARIK0M/main/assets/title.svg" alt="Hi, I'm SHARIK!" />
 </p>
 
-
-<!-- Social Badges (Centered) -->
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/">
-    <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="http://anmolbaranwal.com/">
-    <img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=vercel&logoColor=0A0209" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-1ABC9C?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
   <a href="mailto:hi@anmolbaranwal.com">
-    <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-
 ---
+
 ## 💫 About Me  
 
 I’m a **Full-Stack Developer** passionate about crafting scalable and user-friendly applications.  
-Skilled in the **MERN stack** with growing expertise in **Next.js, Docker, Kubernetes, and AWS**.  
+Skilled in the **MERN stack**, with growing expertise in **Next.js, Docker, Kubernetes, and AWS**.  
 
-- 🚀 Love turning ideas into impactful products  
+- 🚀 Turning ideas into impactful digital products  
 - 🛠️ Strong in **System Design & DSA**  
+- ☁️ Exploring **Cloud & DevOps practices**  
 - 🤝 Thrive in **collaborative, fast-paced teams**  
-- 📫 Reach me: **sharik.x.af@gmail.com** | **+91 9047533809**
 
+📫 Reach me: **sharik.x.af@gmail.com** | **+91 9047533809**
 
 ---
 
 ## 🛠️ Tech Stack  
 
-| **Frontend** | **UI Libraries** | **Backend** | **Database** |
-|--------------|------------------|-------------|--------------|
-| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) | ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) |
+### 🚀 Frontend & UI
+![HTML5](https://img.shields.io/badge/html5-121212?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/css3-121212?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/javascript-121212?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-121212?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/react-121212?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-121212?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-121212?style=for-the-badge&logo=redux&logoColor=764ABC)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-121212?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/bootstrap-121212?style=for-the-badge&logo=bootstrap&logoColor=8511FA)
+![MUI](https://img.shields.io/badge/mui-121212?style=for-the-badge&logo=mui&logoColor=007FFF)
+![ChakraUI](https://img.shields.io/badge/chakraui-121212?style=for-the-badge&logo=chakraui&logoColor=4ED1C5)
+![Chart.js](https://img.shields.io/badge/chart.js-121212?style=for-the-badge&logo=chart.js&logoColor=F5788D)
 
-| **DevOps & Tools** | **Cloud Services** |
-|---------------------|--------------------|
-| ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) |
+### ⚡ Backend & APIs
+![NodeJS](https://img.shields.io/badge/node.js-121212?style=for-the-badge&logo=node.js&logoColor=6DA55F)
+![Express.js](https://img.shields.io/badge/express.js-121212?style=for-the-badge&logo=express&logoColor=61DAFB)
+![Socket.io](https://img.shields.io/badge/socket.io-121212?style=for-the-badge&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-121212?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-121212?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
 
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/mongodb-121212?style=for-the-badge&logo=mongodb&logoColor=4EA94B)
+![MySQL](https://img.shields.io/badge/mysql-121212?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/redis-121212?style=for-the-badge&logo=redis&logoColor=DD0031)
 
+### 🛠 DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-121212?style=for-the-badge&logo=docker&logoColor=0db7ed)
+![Kubernetes](https://img.shields.io/badge/kubernetes-121212?style=for-the-badge&logo=kubernetes&logoColor=326ce5)
+![Git](https://img.shields.io/badge/git-121212?style=for-the-badge&logo=git&logoColor=F05033)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-121212?style=for-the-badge&logo=githubactions&logoColor=2671E5)
+![GitLab CI](https://img.shields.io/badge/gitlab-121212?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
+![Postman](https://img.shields.io/badge/postman-121212?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Nginx](https://img.shields.io/badge/nginx-121212?style=for-the-badge&logo=nginx&logoColor=009639)
+![ESLint](https://img.shields.io/badge/eslint-121212?style=for-the-badge&logo=eslint&logoColor=4B3263)
+![Prettier](https://img.shields.io/badge/prettier-121212?style=for-the-badge&logo=prettier&logoColor=F7B93E)
+![Figma](https://img.shields.io/badge/figma-121212?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+### ☁️ Cloud & Hosting
+![AWS](https://img.shields.io/badge/AWS-121212?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Google Cloud](https://img.shields.io/badge/googlecloud-121212?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Firebase](https://img.shields.io/badge/firebase-121212?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Vercel](https://img.shields.io/badge/vercel-121212?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-121212?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+![Render](https://img.shields.io/badge/render-121212?style=for-the-badge&logo=render&logoColor=46E3B7)
