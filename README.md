@@ -4,37 +4,48 @@
        alt="Banner" 
        width="100%" height="350px"/>
 </p>
-
-<!-- Title -->
+<!-- Dark Themed Title -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SHARIK0M/SHARIK0M/main/assets/title.svg" alt="Hi, I'm SHARIK!" />
+  <img src="https://img.shields.io/badge/Hi%2C%20I'm%20SHARIK!-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=0D1117&color=0D1117" alt="Hi, I'm SHARIK!" />
 </p>
+
 
 <!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/Anmol-Baranwal/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="http://anmolbaranwal.com/">
-    <img src="https://img.shields.io/badge/Portfolio-1ABC9C?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:hi@anmolbaranwal.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
 </p>
 
 ---
+
 ## 💫 About Me  
 
-I’m a **Full-Stack Developer** passionate about crafting scalable and user-friendly applications.  
-Skilled in the **MERN stack**, with growing expertise in **Next.js, Docker, Kubernetes, and AWS**.  
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-121212?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-121212?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Kubernetes-121212?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />
+  <img src="https://img.shields.io/badge/AWS-121212?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+</p>
 
-- 🚀 Turning ideas into impactful digital products  
-- 🛠️ Strong in **System Design & DSA**  
-- ☁️ Exploring **Cloud & DevOps practices**  
-- 🤝 Thrive in **collaborative, fast-paced teams**  
+<p align="center">
+  🚀 Building impactful digital products <br/>
+  🛠 Strong in <b>System Design & DSA</b> <br/>
+  ☁️ Exploring <b>Cloud & DevOps practices</b> <br/>
+  🤝 Thrive in <b>collaborative, fast-paced teams</b> <br/>
+</p>
 
-📫 Reach me: **sharik.x.af@gmail.com** | **+91 9047533809**
+<p align="center">
+  📫 <b>Reach me:</b> <a href="mailto:sharik.x.af@gmail.com">sharik.x.af@gmail.com</a> | <b>+91 9047533809</b>
+</p>
 
 ---
 
@@ -85,3 +96,16 @@ Skilled in the **MERN stack**, with growing expertise in **Next.js, Docker, Kube
 ![Vercel](https://img.shields.io/badge/vercel-121212?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-121212?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Render](https://img.shields.io/badge/render-121212?style=for-the-badge&logo=render&logoColor=46E3B7)
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHARIK0M&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHARIK0M&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHARIK0M&layout=compact&theme=tokyonight&hide_border=true" height="180px"/>
+</p>
