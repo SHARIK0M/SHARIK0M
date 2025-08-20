@@ -32,13 +32,9 @@ Skilled in the **MERN stack**, with growing expertise in **Next.js, Docker, Kube
 - 🚀 Turning ideas into impactful digital products  
 - 🛠️ Strong in **System Design & DSA**  
 - ☁️ Exploring **Cloud & DevOps practices**  
-- 🤝 Thrive in **collaborative, fast-paced teams**
-  
-<p align="center">
-  📫 <b>Reach me:</b> <a href="mailto:sharik.x.af@gmail.com">sharik.x.af@gmail.com</a> | <b>+91 9047533809</b>
-</p>
+- 🤝 Thrive in **collaborative, fast-paced teams**  
 
-
+📫 Reach me: **sharik.x.af@gmail.com** | **+91 9047533809**
 
 ---
 
