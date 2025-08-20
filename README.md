@@ -5,13 +5,11 @@
        width="100%" height="390px"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=500&size=32&pause=1000&color=0ACBFF&width=600&lines=Hi,+I'm+SHARIK!;Full-Stack+Developer;Tech+Enthusiast;MERN+Stack+Developer" alt="Typing Text">
-</p>
 
 <p align="center">
-  <img src="https://your-gif-link.com/gradient-underline.gif" alt="Gradient Underline" width="200">
+  <img src="https://raw.githubusercontent.com/SHARIK0M/SHARIK0M/main/assets/title.svg" alt="Hi, I'm SHARIK!" />
 </p>
+
 
 
 <!-- Social Badges -->
